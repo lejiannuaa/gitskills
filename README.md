@@ -1,5 +1,4 @@
 # gitskills
 gitskills
 Creating is quick & simple.
-112233
-778899
+123456
